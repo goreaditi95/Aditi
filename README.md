@@ -1,10 +1,10 @@
 OOP Activity - Unit II
 This repository contains the programs completed as part of the Object-Oriented Programming (OOP) activity.
 Student Details
-Student Name: Bodake Vaishnavi Vishnu
-PRN: 125UAD1018
+Student Name: Gore Aditi Shankar
+PRN: 125UAD1320
 Class/Division: SY-B
-Roll NO. : AD2213
+Roll NO. : AD2219
 Course Name: B.Tech
 Unit: Unit II
 List of Programs
